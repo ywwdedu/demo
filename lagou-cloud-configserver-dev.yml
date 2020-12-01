@@ -1,2 +1,4 @@
-key:
-    hello
+message:
+    hello good boy
+url:
+    jdbc:mysql://localhost:3306/test?
