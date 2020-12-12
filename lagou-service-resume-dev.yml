@@ -2,3 +2,5 @@ message:
   ok
 msqurl:
   yes
+ips:
+  1,2
